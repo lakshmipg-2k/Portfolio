@@ -8,7 +8,7 @@ html {
 
 body {
     display: block;
-    background: black;
+    background: #000000e0;
 
 }
 
@@ -424,7 +424,7 @@ body {
 }
 
 #project1,
-#project2,#project3,#project4 {
+#project2,#project3,#project4,#project5,#project6{
     border: 1px solid black;
     padding: 1rem !important;
     color: white;
